@@ -1,0 +1,18 @@
+Index: file.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>123456789\r\n\r\nadded 10\r\n\r\nadded 11\r\n\r\nadded 12\r\n\r\nadded 13\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/file.txt b/file.txt
+--- a/file.txt	(revision 2a2841fcf8164d1816961d551e19976403ebcb42)
++++ b/file.txt	(date 1771151831531)
+@@ -6,4 +6,7 @@
+ 
+ added 12
+ 
++
++added 14
++
+ added 13

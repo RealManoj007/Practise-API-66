@@ -1,0 +1,21 @@
+Index: file.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>123456789\r\n\r\nadded 10\r\n\r\nadded 11\r\n\r\nadded 12
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/file.txt b/file.txt
+--- a/file.txt	(revision b58dd6c2690c335ab9661e87e53b177826d62286)
++++ b/file.txt	(date 1771151807570)
+@@ -4,4 +4,7 @@
+ 
+ added 11
+ 
+-added 12
+\ No newline at end of file
++added 12
++
++
++added 14
+\ No newline at end of file
